@@ -91,8 +91,6 @@
   <b>⭐ Thanks for visiting! Let’s build something awesome together. 🚀</b>
 </p> -->
 
-
-# 💫 About Me:
 <br>
 <h1 align="center">Hey there 👋, I'm Ayush Aggarwal</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Enthusiast | 🚀 Always Building, Always Learning</h3><br><br>
