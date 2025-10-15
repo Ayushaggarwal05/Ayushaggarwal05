@@ -47,7 +47,7 @@
 
 <div align="center">
 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushaggarwal05&theme=tokyonight&hide_border=true" alt="Streak stats" />
+  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ayushaggarwal05&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushaggarwal05&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
